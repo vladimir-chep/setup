@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": "/"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			// Theme
+			// "list.activeSelectionForeground": "#6078ff",
+			// "list.inactiveSelectionForeground": "#6078ff",
+			// "list.highlightForeground": "#6078ff",
+			// "scrollbarSlider.activeBackground": "#255370",
+			// "editorSuggestWidget.highlightForeground": "#6078ff",
+			// "textLink.foreground": "#6078ff",
+			// "progressBar.background": "#6078ff",
+			// "pickerGroup.foreground": "#6078ff",
+			// "tab.activeBorder": "#6078ff",
+			// "notificationLink.foreground": "#6078ff",
+			// "editorWidget.resizeBorder": "#6078ff",
+			// "editorWidget.border": "#6078ff",
+			// "settings.modifiedItemIndicator": "#6078ff",
+			// "settings.headerForeground": "#6078ff",
+			// "panelTitle.activeBorder": "#6078ff",
+			// "breadcrumb.activeSelectionForeground": "#6078ff",
+			// "menu.selectionForeground": "#6078ff",
+			// "menubar.selectionForeground": "#6078ff",
+			// SideBar
+			// "activityBar.background": "#183649",
+			"activityBar.activeBorder": "#6078ff",
+			// "activityBar.activeBackground": "#245472",
+			// "activityBar.foreground": "#fff",
+			// "activityBarBadge.background": "#fff",
+			// "activityBarBadge.foreground": "#6078ff",
+			// StatusBar
+			"statusBar.background": "#6078ff",
+			"statusBar.border": "#6078ff",
+			"statusBar.foreground": "#fff",
+			// "sideBarSectionHeader.background": "#1f465e",
+			// "sideBarSectionHeader.foreground": "#f5f5f5",
+		},
+	}
+}
